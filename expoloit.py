@@ -1,3 +1,9 @@
+### https://github.com/f0rk3b0mb/ImaginaryCTF_login
+### Code created by f0rk3b0mb
+### for ImaginaryCTF2023
+### 22 july 2023
+
+
 import string
 import requests
 import bcrypt
